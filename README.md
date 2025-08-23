@@ -15,6 +15,14 @@ This project demonstrates the use of an **LSTM-based Recurrent Neural Network (R
 
 ---
 
+## 📸 Screenshots  
+
+Here’s a preview of the Streamlit app in action:  
+
+![App Screenshot](screenshot/screenshot.png)  
+
+---
+
 
 ## ⚡ Model Training  
 
