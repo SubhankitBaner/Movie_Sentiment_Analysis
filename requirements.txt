@@ -4,4 +4,6 @@ scikit-learn==1.6.1
 streamlit
 matplotlib
 joblib
-tensorflow
+tensorflow==2.19.0
+keras==3.10.0
+h5py==3.14.0
