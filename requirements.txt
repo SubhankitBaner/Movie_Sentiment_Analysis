@@ -4,5 +4,4 @@ scikit-learn==1.6.1
 streamlit
 matplotlib
 joblib
-tensorflow==2.15.0
-h5py==3.14.0
+tensorflow==2.11
