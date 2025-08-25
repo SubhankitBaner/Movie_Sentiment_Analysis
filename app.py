@@ -6,7 +6,7 @@ import numpy as np
 
 # Load model and tokenizer
 # (compile=False avoids unnecessary training/metrics warnings during inference)
-model = load_model('model/model.h5', compile=False)
+model = load_model('model/model.h5', compile=False,safe_mode=False)
 tokenizer = joblib.load('model/tokenizer.pkl')
 
 # Sidebar Navigation
